@@ -1,0 +1,13 @@
+.message-email, .message-password, .message-confirmPassword,
+.message-fields-pswd {
+    display: none;
+}
+.error {
+    border: 1px solid red;
+}
+
+.mostra-a-messagem-de-erro {
+    display: block;
+}
+
+
